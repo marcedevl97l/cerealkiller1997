@@ -13,6 +13,6 @@
 
 <div align="left">
     <h3>🧰 Languages and Tools : </h3>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="logodehtml5" width="40" height="40px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="logodehtml5" width="36" height="36px">
 
 </div>
