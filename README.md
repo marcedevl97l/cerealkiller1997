@@ -14,8 +14,8 @@
 <div align="left">
     <h3>🧰 Languages and Tools : </h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="logodehtml5" width="36" height="36px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linuxgood" width="36" height="36">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="36" height=36>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linuxgood" width="36" height="36">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="snake" width="36" height=36>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="36" height=36>
     <!--<img src="" alt="" width="36" height=36>-->
