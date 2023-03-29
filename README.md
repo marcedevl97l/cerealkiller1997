@@ -9,3 +9,4 @@
  - I am currently training to be a FullStack developer
  - I really like artificial intelligence
  - I like to create projects using HTML CSS PYTHON
+ - I really like Linux, especially Arch Linux
