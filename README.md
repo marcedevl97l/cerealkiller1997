@@ -11,4 +11,8 @@
  - I like to create projects using HTML CSS PYTHON
  - I really like Linux, especially Arch Linux
 
-### 🧰 Languages and Tools : 
+<div align="left">
+    <h3>🧰 Languages and Tools : </h3>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="logodehtml5">
+
+</div>
