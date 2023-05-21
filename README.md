@@ -10,7 +10,7 @@
  - I am currently training to be a FullStack developer
  - I really like artificial intelligence
  - I like to create projects using HTML CSS PYTHON
- - I really like Linux, especially Arch Linux
+ - I like Linux
  
 <hr>
 
@@ -27,9 +27,7 @@
 <h3>Contact me:</h3>
 <ul>
     <li>marcelo.montenegro1997@gmai.com</li>
-    <li></li>    
-    <li></li>
-    <li></li>    
+    <li>+51 917205538</li>        
 <ul/>
 
 
