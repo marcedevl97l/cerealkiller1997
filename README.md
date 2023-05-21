@@ -24,6 +24,12 @@
     <!--<img src="" alt="" width="36" height=36>-->
 </div>
 <hr>
-<h2>Contacts:</h2>
+<h2>Contact me:</h2>
+<ul>
+    <li>marcelo.montenegro1997@gmai.com</li>
+    <li></li>    
+    <li></li>
+    <li></li>    
+<ul/>
 
 
