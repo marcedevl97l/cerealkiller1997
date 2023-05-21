@@ -23,6 +23,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="36" height=36>
     <!--<img src="" alt="" width="36" height=36>-->
 </div>
-
 <hr>
+<h2>Contacts:</h2>
+
 
